@@ -1,10 +1,10 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://tdt-documentation.london.cloudapps.digital/
+host: https://github.com/communitiesuk/local-cyber-support-docs
 
 # Header-related options
 show_govuk_logo: false
 service_name: MHCLG Technical Documentation Library
-service_link: https://tdt-documentation.london.cloudapps.digital/
+service_link: https://github.com/communitiesuk/local-cyber-support-docs
 phase: Beta
 
 # Links to show on right-hand-side of header
@@ -25,8 +25,8 @@ multipage_nav: true
 collapsible_nav: true
 
 # Show links to contribute on GitHub
-show_contribution_banner: true
-github_repo: alphagov/tdt-documentation
+show_contribution_banner: false
+github_repo: https://github.com/communitiesuk/local-cyber-support-docs
 
 # Enable search
 enable_search: false
